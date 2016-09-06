@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "name": "win10-toast",
+  "description": "Windows 10 Toast Notifications API simplified, and prebuilt with NodeRT.",
+  "license": "WTFPL",
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "win",
+    "win10",
+    "windows",
+    "windows10",
+    "toast",
+    "notification",
+    "windows.ui.notifications"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/win10-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/win10-toast/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/win10-toast"
+}
